@@ -55,5 +55,3 @@ For detailed terms, see the [LICENSE](LICENSE) file.
 
 ---
 
-
-```  
