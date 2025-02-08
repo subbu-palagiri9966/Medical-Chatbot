@@ -1,4 +1,4 @@
- 
+
 ---
 
 
@@ -21,17 +21,23 @@ The goal? **Enhance healthcare accessibility** by offering instant responses to 
 ✅ **User-friendly Streamlit interface** for easy interactions.  
 ✅ **Expandable framework** – You can integrate **new medical modules**.  
 
-## 🔧 How to Run the Project Locally  
+## 🔧 Installation & Requirements  
+
+### **📦 Required Dependencies**  
+Ensure you have **Python 3.8+** installed. Then, install the required libraries:  
+
+```sh
+pip install streamlit pandas numpy scikit-learn nltk transformers torch \
+sentence-transformers spacy tensorflow openai requests beautifulsoup4
+```  
+
+### **🚀 Running the Chatbot Locally**  
 1️⃣ **Clone the repository**:  
    ```sh
    git clone <repository_url>
    cd <repository_folder>
    ```  
-2️⃣ **Install dependencies**:  
-   ```sh
-   pip install -r requirements.txt
-   ```  
-3️⃣ **Run the Streamlit app**:  
+2️⃣ **Run the Streamlit app**:  
    ```sh
    streamlit run webapp.py
    ```  
@@ -54,4 +60,3 @@ For detailed terms, see the [LICENSE](LICENSE) file.
 - **Subramanyam Palagiri** 🎓  
 
 ---
-
