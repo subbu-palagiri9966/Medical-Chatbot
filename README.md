@@ -51,7 +51,7 @@ This project is protected under a **Custom License** to encourage modifications 
 For detailed terms, see the [LICENSE](LICENSE) file.  
 
 ## 👨‍💻 Contributor  
-- **Subramanyam Palagiri** 🎓 _(Replace with your actual name)_  
+- **Subramanyam Palagiri** 🎓  
 
 ---
 
