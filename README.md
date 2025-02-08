@@ -1,7 +1,7 @@
  
 ---
 
-```md
+
 # 🤖🩺 AI-Powered Medical Chatbot  
 
 ## 📌 Project Overview  
